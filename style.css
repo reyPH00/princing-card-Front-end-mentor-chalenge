@@ -98,3 +98,9 @@ ul{
   opacity:0.8;
   font-size: 0.9rem;
 }
+@media(max-width: 650px){
+  #bottomL, #bottomR, #container{
+    width: 100%;
+    height: auto;
+  }
+}
